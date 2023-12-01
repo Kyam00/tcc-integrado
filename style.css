@@ -499,7 +499,7 @@ footer{
         margin: 0.5rem;
     }
 }
-@media (max-width: 450px){
+@media (max-width: 600px){
     .cont1{
         font-size: 0.65em;
         
@@ -527,6 +527,12 @@ footer{
     .supart{
         font-size: 1.5em;
         text-align: justify;
+    }
+    .textpatreon{
+        padding: 0 1rem 0;
+    }
+    .animapat img{
+        width: 80%;
     }
 }
 @media (max-width: 400px){
